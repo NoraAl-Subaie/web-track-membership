@@ -75,5 +75,3 @@ export default async function AdminPage() {
     </main>
   );
 }
-
-أخبرني عندما تنتهي من حفظه في مستودعك لكي ننتقل إلى **الملف الثالث عشر والأخير** (`app/denied/page.jsx`)[cite: 30]!
