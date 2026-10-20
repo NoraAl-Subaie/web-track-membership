@@ -53,5 +53,3 @@ export default async function Dashboard() {
     </main>
   );
 }
-
-أخبرني عندما تنتهي من حفظه في مستودعك لكي ننتقل إلى **الملف الحادي عشر** (`app/admin/actions.js`)!
