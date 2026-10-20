@@ -31,6 +31,3 @@ export async function decideMembership(formData) {
 
   revalidatePath("/admin");
 }
-
-
-أخبرني عندما تنتهي من حفظه في مستودعك لكي ننتقل إلى **الملف الثاني عشر** (`app/admin/page.jsx`)[cite: 27]!
