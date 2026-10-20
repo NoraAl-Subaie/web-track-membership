@@ -33,5 +33,3 @@ export default async function Home() {
     </main>
   );
 }
-
-أخبرني عندما تنتهي من حفظه في مستودعك لكي ننتقل إلى **الملف السابع** (`auth.js`)!
