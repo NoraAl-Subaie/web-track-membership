@@ -22,5 +22,3 @@ p { color: #667085; line-height: 1.9; }
 .accept { background: #188038; } .reject { background: #c5221f; } .exclude { background: #596579; }
 .status { font-weight: bold; color: #3d4c66; }
 @media (max-width: 520px) { .card { padding: 25px 18px; } h1 { font-size: 24px; } }
-
-أخبرني عندما تنتهي من حفظه لكي ننتقل إلى الملف التالي (`app/page.jsx`)!
